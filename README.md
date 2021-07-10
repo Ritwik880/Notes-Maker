@@ -1,4 +1,4 @@
-<img src="https://github.com/Ritwik880/Notes-Maker/blob/main/note.png?raw=false" width="100%">
+<img src="https://github.com/Ritwik880/Notes-Maker/blob/main/note1.png?raw=false" width="100%">
 
 # NOTES KEEPER
 
