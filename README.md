@@ -11,7 +11,7 @@ Built with <b>Javascript and Html</b> with ❤️
 
 
 #### View Live Demo
-  <pre><center><a href="https://magic-web-notes.herokuapp.com/?"><b>magic-web-notes.herokuapp.com</b></a></center></pre>
+  <pre><center><a href="https://magic-web-notes.herokuapp.com"><b>magic-web-notes.herokuapp.com</b></a></center></pre>
 
 ## Setup
 
